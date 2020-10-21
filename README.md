@@ -3,25 +3,29 @@
 
 ## Instruction
 1. Make sure the Choregraphe version is 2.5.5.5.
-2. Open the .pml file to open the project.
-3. Connect to the robot.
+1. Open the .pml file to open the project.
+1. Connect to the robot.
     - Make sure the robot and the PC are under the same network.
     - If you connect to a virtual robot, note that the speech recognition is not supported.
-4. On the left there are many behavior folders. The main program is in folder *behavior_main*.
+1. On the left there are many behavior folders. The main program is in folder *behavior_main*.
     - Open the folder *behavior_main*, then the file *behavior.xar*.
 
 ## Dialog walkthrough
----INTRO---
-Human: Hi Pepper, can you **help me**?
-Pepper: Hello, of course. How can I help you today?  // Pepper recognizes the phrase "help me"
-Human: ...
----WALK---
-Human: **Walk** with me, Pepper.
-Pepper: (Walk forwards)  // Pepper recognizes the word "walk"
----OUTRO---
-...
-Human: Which shoes fit well together with the dress, **coat and trousers** I chose?
-Pepper: Mmm. I am afraid, I cannot help you with this. Let me call an expert for help.  // Pepper recognizes the phrase "coat and trousers"
+
+---INTRO--- <br>
+🧑 Human: Hi Pepper, can you **help me**? <br>
+🤖 Pepper: Hello, of course. How can I help you today?  <span style="color:grey"> // Pepper recognizes the phrase "help me" </span> <br>
+🧑 Human: WoW, is super busy today ... <br>
+
+---WALK--- <br>
+🧑 Human: **Walk** with me, Pepper. <br>
+🤖 Pepper: (Walk forwards)  <span style="color:grey"> // Pepper recognizes the word "walk" </span> <br>
+
+---OUTRO--- <br>
+... <br>
+🧑 Human: Which shoes fit well together with the dress, **coat and trousers** I chose? <br>
+🤖 Pepper: Mmm. I am afraid, I cannot help you with this. Let me call an expert for help.  <span style="color:grey"> // Pepper recognizes the phrase "coat and trousers" </span> <br>
+
 
 ## Customize the behavior
 There are certain parameters that you can change in the diagram according to your wish.
