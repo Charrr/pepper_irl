@@ -3,12 +3,15 @@
 
 ## Instruction
 1. Make sure the Choregraphe version is 2.5.5.5.
-1. Open the .pml file to open the project.
-1. Connect to the robot.
+2. Open the .pml file to open the project.
+3. Connect to the robot.
     - Make sure the robot and the PC are under the same network.
     - If you connect to a virtual robot, note that the speech recognition is not supported.
-1. On the left there are many behavior folders. The main program is in folder *behavior_main*.
+4. On the left there are many behavior folders. The main program is in folder *behavior_main*.
     - Open the folder *behavior_main*, then the file *behavior.xar*.
+5. Run the program by hitting the green play button at the top.
+
+<div><img src="src/choregraphe-screenshot-1.png" align=center /><div/>
 
 ## Dialog walkthrough
 

@@ -13,6 +13,7 @@
     <Resources>
         <File name="test_movealong" src="test_movealong.pmt" />
         <File name="README" src="README.md" />
+        <File name="choregraphe-screenshot-1" src="src/choregraphe-screenshot-1.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
