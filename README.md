@@ -28,12 +28,13 @@
 
 
 ## Customize the behavior
-There are certain parameters that you can change in the diagram according to your wish.
-1. The words that trigger Pepper's recognition:
+There are certain parameters that you can change in the diagram according to your wish. <br>
+
+1. The words that trigger Pepper's recognition: <br>
     On each SpeechRecognition box, click the wrench icon at the bottom left. There you can input the words that you want Pepper to recognize. (use semicolon to separate single words)
-2. The texts that Pepper says:
-    Directly edit in the TextEdit boxs.
-3. The trajectory that Pepper walks:
+2. The texts that Pepper says: <br>
+    Directly edit in the TextEdit boxs. 
+3. The trajectory that Pepper walks: <br>
     On the MoveTo box, click the wrench icon. There you can edit how far you want Pepper to move. (x being the forward direction, y the perpendicular)
-4. The short interval before Pepper speaks:
+4. The short interval before Pepper speaks: <br>
     On the Wait box, click the wrench icon. There you can tune the length of the interval.
