@@ -10,34 +10,16 @@
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="behavior_1">
-   <userRequestable/>
-   <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
-   <permissions/>
-  </behaviorContent>
   <behaviorContent path="beh_walk">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="test_setpara">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="behavoir_convo">
-   <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="beh_intro">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="beh_outro">

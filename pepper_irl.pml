@@ -2,16 +2,17 @@
 <Package name="pepper_irl" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="beh_walk" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="test_setpara" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="behavoir_convo" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="beh_intro" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="beh_outro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="test_behavior_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="behavoir_main" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
         <File name="test_movealong" src="test_movealong.pmt" />
+        <File name="README" src="README.md" />
     </Resources>
     <Topics />
     <IgnoredPaths />

@@ -14,10 +14,9 @@
             <translation type="obsolete">Hello! I'm gonna walk.</translation>
         </message>
         <message>
-            <location filename="beh_walk/behavior.xar" line="0"/>
             <source>Look! I'm gonna walk.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Look! I'm gonna walk.</translation>
+            <translation type="obsolete">Look! I'm gonna walk.</translation>
         </message>
     </context>
     <context>
@@ -28,10 +27,9 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="beh_walk/behavior.xar" line="0"/>
             <source>Yasss</source>
             <comment>Text</comment>
-            <translation type="unfinished">Yasss</translation>
+            <translation type="obsolete">Yasss</translation>
         </message>
     </context>
     <context>
@@ -42,10 +40,9 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="beh_walk/behavior.xar" line="0"/>
             <source>Uh-oh</source>
             <comment>Text</comment>
-            <translation type="unfinished">Uh-oh</translation>
+            <translation type="obsolete">Uh-oh</translation>
         </message>
     </context>
     <context>
