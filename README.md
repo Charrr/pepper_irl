@@ -2,7 +2,7 @@
  Interacting with Pepper the robot with Choregraphe
 
 ## Instruction
-1. Make sure the Choregraphe version is 2.5.5.5.
+1. Make sure the Choregraphe version is 2.5.5. [Link here.](https://www.softbankrobotics.com/emea/en/support/pepper-naoqi-2-9/downloads-softwares/former-versions?os=45&category=98)
 2. Open the .pml file to open the project.
 3. Connect to the robot.
     - Make sure the robot and the PC are under the same network.
